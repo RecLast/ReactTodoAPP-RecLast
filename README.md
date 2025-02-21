@@ -5,21 +5,34 @@ A powerful and modern Todo App built with React, designed to help you manage tas
 ## 🚀 Features
 
 ✅ **Dashboard System** – Get a quick overview of your tasks and projects.
+
 ✅ **Task Management** – Add tasks on a daily, weekly, monthly, or project basis.
+
 ✅ **Project Management** – Create and manage projects with ease.
+
 ✅ **Priority System** – Set task priorities to focus on what matters most.
+
 ✅ **Modern UI/UX** – A clean, intuitive, and modern design.
+
 ✅ **Responsive Design** – Fully functional across all screen sizes.
+
 ✅ **Settings & Customization** – Personalize the app according to your preferences.
+
 ✅ **Multi-language Support** – Use the app in different languages.
+
 ✅ **Task Export & Import** – Download your tasks and reload them when needed.
+
 ✅ **All-in-One Solution** – Everything you need in a single, well-organized application.
+
 
 ## 📸 Screenshots
 
 - Fulll APP
+  
 ![TodoApp - RecLast](./projectimage/image1.png)
+
 - Responsive Mobile
+  
 ![TodoApp - RecLast](./projectimage/image8.png)
 
 ## 🛠️ Installation & Setup
@@ -84,10 +97,10 @@ vercel
 
 ## 🎯 Future Improvements
 
-🔹 Integration with third-party calendar apps
-🔹 Dark mode support
-🔹 Team collaboration features
-🔹 Task reminders and notifications
+-🔹 Integration with third-party calendar apps
+-🔹 Dark mode support
+-🔹 Team collaboration features
+-🔹 Task reminders and notifications
 
 ## 📜 License
 
