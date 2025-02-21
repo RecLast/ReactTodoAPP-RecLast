@@ -35,6 +35,14 @@ A powerful and modern Todo App built with React, designed to help you manage tas
   
 ![TodoApp - RecLast](./projectimage/image8.png)
 
+- Project Menü
+  
+![TodoApp - RecLast](./projectimage/image4.png)
+
+- Setting Menü
+  
+![TodoApp - RecLast](./projectimage/image6.png)
+
 ## 🛠️ Installation & Setup
 
 Follow these simple steps to install and run the project locally.
@@ -97,10 +105,13 @@ vercel
 
 ## 🎯 Future Improvements
 
--🔹 Integration with third-party calendar apps
--🔹 Dark mode support
--🔹 Team collaboration features
--🔹 Task reminders and notifications
+🔹 Integration with third-party calendar apps
+
+🔹 Dark mode support
+
+🔹 Team collaboration features
+
+🔹 Task reminders and notifications
 
 ## 📜 License
 
