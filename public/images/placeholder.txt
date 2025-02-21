@@ -1,0 +1,5 @@
+This directory will contain:
+- logo.png
+- favicon.png
+
+Please add these image files manually.
