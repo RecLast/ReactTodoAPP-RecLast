@@ -17,7 +17,10 @@ A powerful and modern Todo App built with React, designed to help you manage tas
 
 ## 📸 Screenshots
 
-![Flutter MySQL Connect](./projectimage/image1.png)
+- Fulll APP
+![TodoApp - RecLast](./projectimage/image1.png)
+- Responsive Mobile
+![TodoApp - RecLast](./projectimage/image8.png)
 
 ## 🛠️ Installation & Setup
 
@@ -31,7 +34,7 @@ Make sure you have the following installed on your system:
 
 ### Clone the Repository
 ```sh
-git clone [https://github.com/yourusername/todo-app.git](https://github.com/RecLast/ReactTodoAPP-RecLast)
+git clone https://github.com/RecLast/ReactTodoAPP-RecLast
 cd ReactTodoAPP-RecLast
 ```
 
